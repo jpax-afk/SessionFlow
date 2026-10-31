@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+coverage/
+
+# Local tooling and operating system files
+.DS_Store
+Thumbs.db
+*.log
+
